@@ -14,6 +14,7 @@
 ## Часть 2
 ### Задание 1
 3 самых частотных модификатора существительного question:
+
 ![](https://github.com/karinagukasyan/HW6/blob/master/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 ### Задание 2
 ![](https://github.com/karinagukasyan/HW6/blob/master/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B.png)
