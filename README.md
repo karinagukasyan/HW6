@@ -17,6 +17,7 @@
 
 ![](https://github.com/karinagukasyan/HW6/blob/master/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 ### Задание 2
+Со словом "responsibility" чаще употребляется глагол "assume", а со словом "significance" гораздо чаще можно встретить глагол "presume".
 ![](https://github.com/karinagukasyan/HW6/blob/master/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B.png)
 ### Задание 3
 Я выбрала слово award. По результатам, полученным в Google Ngrams, рост наблюдается. Нельзя сказать, что он очень резкий, но он есть. Также можно заметить спад употребления в последнее время.
