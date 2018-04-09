@@ -24,5 +24,6 @@
 Я выбрала слово award. По результатам, полученным в Google Ngrams, рост наблюдается. Нельзя сказать, что он очень резкий, но он есть. Также можно заметить спад употребления в последнее время.
 ![](https://github.com/karinagukasyan/HW6/blob/master/%D0%B0%D0%B2%D0%B0%D1%80%D0%B4%20%D0%BD%D0%B3%D1%80%D0%B0%D0%BC.png)
 В BNC частотность употребления данного слова вполне соответствует графику частотности в Google Ngrams, однако не виден спад, наблюдаемый в последние годы. Вероятнее всего это связано с разной стилистикой представленных в НКРЯ и Google Ngrams текстов.
+
 ![](https://github.com/karinagukasyan/HW6/blob/master/%D0%B0%D0%B2%D0%B0%D1%80%D0%B4.png)
 ![](https://github.com/karinagukasyan/HW6/blob/master/%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.png)
